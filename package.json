@@ -9,7 +9,7 @@
     "format": "prettier --write '**/*.{js,css,json,md}'"
   },
   "author": "Petr Severa <petr.severa@jablotron.cz>",
-  "license": "MIT",
+  "license": "The Unlicense",
   "devDependencies": {
     "prettier": "^1.18.2"
   }
